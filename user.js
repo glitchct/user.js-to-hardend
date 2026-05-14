@@ -1,10 +1,9 @@
 /******
-*    name: arkenfox user.js
+*    name: glitched user.js
 *    date: 21 April 2026
 * version: 144
-*    urls: https://github.com/arkenfox/user.js [repo]
-*        : https://arkenfox.github.io/gui/ [interactive]
-* license: MIT: https://github.com/arkenfox/user.js/blob/master/LICENSE.txt
+*    urls: https://github.com/glitchct/user.js-for-hardend [repo]
+* license: MIT: https://github.com/glitchct/user.js-for-hardend/blob/master/LICENSE.txt
 
 * README:
 
@@ -24,9 +23,8 @@
             [SETUP-WEB] can cause some websites to break
          [SETUP-CHROME] changes how Firefox itself behaves (i.e. not directly website related)
          [SETUP-HARDEN] prefs you may like to add to overrides
-  6. Override Recipes: https://github.com/arkenfox/user.js/issues/1080
 
-* RELEASES: https://github.com/arkenfox/user.js/releases
+* RELEASES: https://github.com/glitchct/user.js-for-hardend/releases
 
   * Use the arkenfox release that matches your Firefox version
     - DON'T wait for arkenfox to update Firefox, nothing major changes these days
